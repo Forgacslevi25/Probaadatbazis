@@ -111,5 +111,10 @@ namespace ProbaAdatbazis
             Form2 obj = new Form2();
             obj.Show();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
